@@ -1,0 +1,24 @@
+User-Id,First-Name,Last-Name,Rating
+<<<<<<< HEAD
+0,FirstName 0,LastName 0,8
+1,FirstName 1,LastName 1,297
+2,FirstName 2,LastName 2,231
+3,FirstName 3,LastName 3,284
+4,FirstName 4,LastName 4,4
+5,FirstName 5,LastName 5,225
+6,FirstName 6,LastName 6,224
+7,FirstName 7,LastName 7,1
+8,FirstName 8,LastName 8,77
+9,FirstName 9,LastName 9,182
+=======
+0,FirstName 0,LastName 0,109
+1,FirstName 1,LastName 1,207
+2,FirstName 2,LastName 2,38
+3,FirstName 3,LastName 3,18
+4,FirstName 4,LastName 4,130
+5,FirstName 5,LastName 5,120
+6,FirstName 6,LastName 6,168
+7,FirstName 7,LastName 7,52
+8,FirstName 8,LastName 8,39
+9,FirstName 9,LastName 9,31
+>>>>>>> master
